@@ -1,10 +1,13 @@
 # Welcome to fCoderSociety
 
-A community of passionate coders, committed to leverage our expertise for the greater good of the society!  
+A community of boundless coders, leveraging expertise for the greater good of the society! 
  
-From beginners to experts, we come together as developers with a singular focus: to collaborate and innovate through coding for the betterment of our communities and beyond.  
+From beginners to experts, we come together as developers with one goal in mind: to collaborate, to innovate, and to code for the betterment of our society and beyond.  
 
 ## Join fCoderSociety!
-Open to anyone who wants to learn, contribute, and join in making a difference. Together, we can write the code for a better tomorrow. Unleash your potential.
+
+Open to anyone who are passionate to learn, contribute, and make a difference.  
+
+Together, we can code for a better tomorrow.  
 
 Mailto: <fcodersociety@gmail.com> or <aravindswami135@gmail.com>  
